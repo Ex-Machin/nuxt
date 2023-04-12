@@ -1,7 +1,7 @@
 <template>
   <section class="section">
     <div class="columns is-mobile">
-      <card
+      <!-- <card
         title="Free"
         icon="github"
       >
@@ -35,7 +35,7 @@
         icon="arrange-bring-to-front"
       >
         No other internal dependency
-      </card>
+      </card> -->
     </div>
   </section>
 </template>
